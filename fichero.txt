@@ -1,3 +1,7 @@
 belhachmi
 ouaissa
+<<<<<<< HEAD
 Laila se incluye mi nombre en la tercera linea
+=======
+laila se incluye mi nombre en la tercera linea
+>>>>>>> dd6724a26cf452a7dcdfee3bbd2f5eab4d78493e
